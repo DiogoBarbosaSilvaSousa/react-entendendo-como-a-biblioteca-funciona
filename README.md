@@ -4,6 +4,4 @@ Com uma base sólida de conhecimento, podemos começar nossa imersão no mundo d
 
 # Comandos usados
 
-* O nome do projeto de exemplo é ceep
-
-npx create-react-app ceep
+* O nome do projeto de exemplo é ceep '**npx create-react-app ceep**'
