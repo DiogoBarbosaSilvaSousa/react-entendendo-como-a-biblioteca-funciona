@@ -1,2 +1,2 @@
-import FormularioCadastro from "./FormularioCadastro.jsx";
-export default FormularioCadastro;
+import FormularioCadastro from "./FormularioCadastro"
+export default FormularioCadastro
